@@ -31,7 +31,7 @@
 //  let num2 = 5;  //both value are integer so output will be true
 //  console.log(num1===num2); //true
 
- //!= & !==
+// != & !==
 //  let num1 =5;
 //  let num2 = 5;  //both value are integer so output will be true
 //  console.log(num1!==num2); //false

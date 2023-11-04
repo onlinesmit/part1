@@ -1,10 +1,13 @@
 // how to iterate object 
 const person = {
-    name: "harshit",
+    name: "Smit",
     age: 22,
     "person hobbies": ["guitar", "sleeping", "listening music"]
 }
 
+for(let key in person){
+    console.log(key);
+}
 // for in loop 
 // Object.keys 
 
@@ -18,5 +21,5 @@ const person = {
 // console.log(val);
 
 // for(let key of Object.keys(person)){
-//     console.log(person[key]);
+//    console.log(person[key]);
 // }

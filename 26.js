@@ -17,8 +17,8 @@
 // console.log(fruits[1]); //output mango
 
 let fruits = ["apple", "mango", "grapes"];
-console.log(fruits);
-fruits[1] = "banana"; //output ['apple', 'mango', 'grapes']
+console.log(fruits);  //output ['apple', 'mango', 'grapes']
+fruits[1] = "banana"; 
 console.log(fruits); //output  ['apple', 'banana', 'grapes']
 
  let obj = {}; // object literal  & output is object

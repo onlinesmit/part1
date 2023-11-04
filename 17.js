@@ -12,7 +12,7 @@ let winningNumber = 15;
  //prompt take a input in the form of string
 
  let userGuess = +prompt("Guess a number"); //use of + its change the string value o number
-if(userGuess === winningNumber){
+ if(userGuess === winningNumber){
     console.log("Your guess is right!!");
 }else{
     if(userGuess < winningNumber){

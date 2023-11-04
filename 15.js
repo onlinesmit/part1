@@ -15,5 +15,5 @@
 
 let age = 3;
 //let drink = age >= 5 ? "coffee" : "milk";  //milk
-let drink = age <= 5 ? "coffee" : "milk";  //coffee
+let drink = age >= 5 ? "coffee" : "milk";  //coffee
 console.log(drink);

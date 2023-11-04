@@ -1,6 +1,6 @@
 //String concatenization 
 
-// let string1 = "smit";
+// let string1 = "Smit";
 // let string2 = "Kumar";
 
 // // let fulNmame = string1 + " " + string2;

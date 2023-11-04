@@ -15,7 +15,7 @@
 // if(firstName){
 //     console.log(firstName); //1
 // }else{
-//     console.log("firstName is kinda empty");
+//     console.log("firstName is kind a empty");
 // }
 
 let firstName= 0; //falsy
@@ -23,5 +23,5 @@ let firstName= 0; //falsy
 if(firstName){
     console.log(firstName); 
 }else{
-    console.log("firstName is kinda empty"); //this is the output
+    console.log("firstName is kind a empty"); //this is the output
 }

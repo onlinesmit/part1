@@ -14,11 +14,11 @@
 // let name = "Smit";
 
 // //convert no. to string
-// //console.log(typeof(age + ""));
+// // console.log(typeof(age + ""));
 
 // //or 
-// // age = age + "";
-// // console.log(typeof(age));
+// age = age + "";
+// console.log(typeof(age));
 
 // //string to number
 
